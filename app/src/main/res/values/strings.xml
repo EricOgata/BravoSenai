@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Login Designer</string>
+    <string name="config">Configurações</string>
+    <string name="email">E-mail</string>
+    <string name="senha">Senha</string>
+    <string name="login">LOGIN</string>
+    <string name="show_pwd">Montrar Senha</string>
+    <string name="hide_pwd">Esconder Senha</string>
+    <string name="forgot">Esqueceu a Senha?</string>
+    <string name="newUser">Não possui uma conta? Cadastre-se.</string>
+    <string name="full_name">Nome Completo</string>
+    <string name="celular">Número do Celular</string>
+    <string name="local">Localização</string>
+    <string name="confirm_senha">Confirme sua senha</string>
+    <string name="term_cond">Clicando em CADASTRAR, você concorda com todos os Termos and Condições.</string>
+    <string name="cadastrar">CADASTRAR</string>
+    <string name="cadastro">CADASTRO</string>
+    <string name="already_user">Já possui uma conta? Faça seu login.</string>
+    <string name="regist_email">Por favor, entre com um email cadastrado:</string>
+    <string name="enviar">ENVIAR</string>
+    <string name="voltar">VOLTAR</string>
+    <string name="propriedade">PROPRIEDADE</string>
+    <string name="title_activity_app">AppActivity</string>
+
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Example action</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
